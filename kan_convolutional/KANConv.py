@@ -4,7 +4,7 @@ import math
 import sys
 sys.path.append("/kaggle/working/Convolutional-KANs")
 
-from KANLinear import KANLinear
+from kan_convolutional.KANLinear import KANLinear
 import convolution
 
 
