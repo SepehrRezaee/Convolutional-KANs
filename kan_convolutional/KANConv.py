@@ -5,7 +5,7 @@ import sys
 sys.path.append("/kaggle/working/Convolutional-KANs")
 
 from kan_convolutional.KANLinear import KANLinear
-import convolution
+from kan_convolutional import convolution
 
 
 #Script que contiene la implementación del kernel con funciones de activación.
