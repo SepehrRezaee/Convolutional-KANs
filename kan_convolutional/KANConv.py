@@ -1,5 +1,9 @@
 import torch
 import math
+
+import sys
+sys.path.append("/kaggle/working/Convolutional-KANs")
+
 from KANLinear import KANLinear
 import convolution
 
